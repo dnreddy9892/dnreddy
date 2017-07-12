@@ -1,0 +1,23 @@
+#include<stdio.h>
+#include<conio.h>
+added new changes by polu
+main()
+{
+int a,b,c,d,r,k;
+
+clrscr();
+
+printf("enter value for A = ");
+scanf*("%d",&a);
+direct changes 
+printf("enter value for A = ");
+scanf*("%d",&a);
+
+c=a+b;
+d=a*b;
+
+printf("the addition of two numbers = %d",c);
+printf("the multiplication of two numbers = %d",d);
+
+getche();
+}
